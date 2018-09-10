@@ -19,6 +19,7 @@ This is where all of our stuff will go!
 ## Python Quadratic Solver
 ### Lessons Learned
 ### Code
+[Link To Code](https://github.com/oguiffre/Engineering_4_Notebook/blob/master/Python/quad.py)
 ## Hello Git
 ### Lessons Learned
 ### Code
