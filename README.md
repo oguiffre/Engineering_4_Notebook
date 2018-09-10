@@ -9,6 +9,9 @@ This is where all of our stuff will go!
 ## Hello Python
 ### Lessons Learned
 ### Code
+## Dice Roller
+### Code
+[Link To Code](https://github.com/oguiffre/Engineering_4_Notebook/blob/master/Python/EpicDiceRoller.py)
 ## Python Calculator
 ### Lessons Learned
 ### Code
