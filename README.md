@@ -10,9 +10,9 @@ This is where all of our stuff will go!
 ### Lessons Learned
 ### Code
 ## Python Calculator
-[Link to Code](https://github.com/oguiffre/Engineering_4_Notebook/blob/master/Python/Calculator.py)
 ### Lessons Learned
 ### Code
+[Link to Code](https://github.com/oguiffre/Engineering_4_Notebook/blob/master/Python/Calculator.py)
 ## Python Quadratic Solver
 ### Lessons Learned
 ### Code
