@@ -1,0 +1,11 @@
+<!doctype html>
+<html>
+<head>
+     <title>GPIO with Flask!</title>
+</head>
+<body>
+{{msg}}
+<form method="POST">
+     <button type="submit" name="submitBtn" value="ON">Blue LED</butt</form>
+</body>
+</html>

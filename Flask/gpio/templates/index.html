@@ -1,0 +1,40 @@
+<!doctype html>
+<html>
+<head>
+     <title>GPIO with Flask!</title>
+     <style>
+	body {
+	  	background-color: #0cff00;
+	}
+	.red {
+		color: red;
+	}
+	.yellow{
+		color: yellow;
+	}
+     </style>
+</head>
+<body>
+
+<marquee  bgcolor=yellow behavior="alternate" scrollamount = 10 class = "red"> welcome to Biggie Cheese website!<br>
+<img src="https://i.kym-cdn.com/entries/icons/facebook/000/021/733/bigcheese.jpg" width ="300px" height ="300px"><br>
+welcome to Biggie Cheese website!
+</marquee>
+
+<form method="POST" class="yellow">
+     {% if msg[0] == 'ON' %}
+     <input type="checkbox" checked name="redled" value="ON">RED LED</input><br>
+     {% else %}
+     <input type="checkbox" name="redled" value="ON">RED LED</input><br>
+     {% endif %}
+     {% if msg[1] == 'ON' %}
+     <input type="checkbox" checked name="blueled" value="ON">BLUE LED</input><br>
+     {% else %}
+     <input type="checkbox" name="blueled" value="ON">BLUE LED</input><br>
+     {% endif %}
+     <input type="submit">
+     
+</form>
+</body>
+</html>
+
