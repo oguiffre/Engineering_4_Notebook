@@ -7,4 +7,5 @@ We wanted to create a handsized two-wheeled drone that could drive, strafe, and 
 We based our project off of some real world as well as fictional inspiration:
 
 The recon drones used in the video game *Tom Clancy's: Rainbow Six Siege*
+
 ![R6](https://github.com/oguiffre/Engineering_4_Notebook/blob/master/r6drone.jpg)
