@@ -12,4 +12,4 @@ The recon drones used in the video game *Tom Clancy's: Rainbow Six Siege*
 
 And the Jumping Sumo by Parrot
 
-![sumo](https://github.com/oguiffre/Engineering_4_Notebook/blob/master/Pi%20in%20the%20Sky/parrotdrone.jpg | width=100)
+<img src="https://github.com/oguiffre/Engineering_4_Notebook/blob/master/Pi%20in%20the%20Sky/parrotdrone.jpg" width="250">
