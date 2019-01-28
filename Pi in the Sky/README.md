@@ -16,6 +16,15 @@ And the Jumping Sumo by Parrot
 
 <img src="https://github.com/oguiffre/Engineering_4_Notebook/blob/master/Pi%20in%20the%20Sky/parrotdrone.jpg" width="250">
 
+## Resources
+
++ Pi Zero
++ Wires
++ Accelerometer
++ Camera
++ Mecanum wheels
++ Motors
+
 ## Constraints
 
 + Size - we want the body of the drone to be able to fit in someone’s hand. This will be hard because it means we have to be compact with our wiring and organization of the drone.
