@@ -17,3 +17,7 @@ And the Jumping Sumo by Parrot
 
 ## Constraints
 + Size - we want the body of the drone to be able to fit in someone’s hand. This will be hard because it means we have to be compact with our wiring and organization of the drone.
++ Durability - Because our drone is going to have many parts and will be jumping around, we need to make it strong enough to survive multiple impacts. 
++ Time - Time is probably the greatest constraint because we only gave ourselves one semester to finish this
++ Aesthetic - It might be hard to make it look how it does in game.
+
